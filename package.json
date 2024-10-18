@@ -37,7 +37,7 @@
   "main": "./lib",
   "dependencies": {
     "passport-strategy": "1.x.x",
-    "oauth": "0.9.x",
+    "oauth": "0.10.x",
     "utils-merge": "1.x.x"
   },
   "devDependencies": {
